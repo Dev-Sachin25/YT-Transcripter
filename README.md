@@ -15,14 +15,14 @@ This tool creates text summaries from YouTube videos using their transcripts. It
 1. Make sure you have Python 3.7+ installed
 2. Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 ## Usage
 
 1. Run the script:
 ```bash
-python yt_summarizer.py
+python main.py
 ```
 
 2. Enter a YouTube URL when prompted
