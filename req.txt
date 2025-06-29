@@ -1,0 +1,5 @@
+youtube_transcript_api==0.6.1
+transformers==4.36.2
+pytube==15.0.0
+yt-dlp==2024.3.10
+torch==2.1.2 
